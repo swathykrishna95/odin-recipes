@@ -1,0 +1,24 @@
+html{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(144, 238, 144);
+    
+}
+
+h1{
+    font-size: 35px;
+    margin: 10vh;
+}
+
+li{
+    font-size: 25px;
+}
+
+img{
+    margin: 35px 0;
+    margin-left: 15px;
+}
