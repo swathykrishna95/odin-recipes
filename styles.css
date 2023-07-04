@@ -21,6 +21,9 @@ li{
 
 img{
     display: block;
-    margin: auto auto;
+    margin: 10vh auto;
 }
 
+div{
+    text-align: center;
+}
