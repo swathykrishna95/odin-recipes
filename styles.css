@@ -6,19 +6,21 @@ html{
 
 body{
     background-color: rgb(144, 238, 144);
-    
 }
 
 h1{
     font-size: 35px;
     margin: 10vh;
+    text-align: center;
 }
 
+p, 
 li{
-    font-size: 25px;
+    font-size: 19px;
 }
 
 img{
-    margin: 35px 0;
-    margin-left: 15px;
+    display: block;
+    margin: auto auto;
 }
+
